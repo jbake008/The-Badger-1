@@ -1,347 +1,60 @@
 # The-Badger
 
-//Produces random answers for questions for "The Badger"
+//Bernardo D. Villajuan
+//CSC436
+//9/19/2016
+//Print Statement
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Really??" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-        // string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Insert message here","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Ask someone who cares!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Really??","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Bullocks!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Ask someone who cares!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Ask the Badger, oh wait, that's me!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Bullocks!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "I don't know & I don't care!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Ask the Badger, oh wait, that's me!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "I don't care!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("I don't know & I don't care!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Seriously, I couldn't care less 
-                            about your question" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17https://idp.plattsburgh.edu/logout.php?link_href=http://email.plattsburgh.edu/&link_text=Go%20back%20to%20the%20login%20page, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("I don't care!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Stop badgering me!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Signs point to yes." };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Seriously, I couldn't care less                         about your question","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "It is certain." };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Stop badgering me!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Very doubtful." };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Signs point to yes.","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Outlook not so good." };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("It is certain.","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "No, the answer is......" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Very doubtful.","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "Clouded, the future is." };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "The question is illogical." };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Outlook not so good.","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "I'm an badger, not a fortune-teller!! " };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("No, the answer is......","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
 
-using System;
-namespace StringApplication
-{
-   class Program
-   {
-      static void Main(string[] args)
-      {
-         //methods returning string
-         string[] sarray = { "That's a widiculous question!!" };
-         string message = String.Join(" ", sarray);
-         Console.WriteLine("Message: {0}", message);
-         
-         //formatting method to convert a value
-         //DateTime waiting = new DateTime(2012, 10, 10, 17, 58, 1);
-         //string chat = String.Format("Message sent at {0:t} on {0:D}", waiting);
-         Console.WriteLine("Message: {0}", chat);
-      }
-   }
-}
+MessageBox.Show("Clouded, the future is.","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
+
+MessageBox.Show("The question is illogical.","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
+
+
+MessageBox.Show("I'm an badger, not a fortune-teller!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
+
+MessageBox.Show("That's a widiculous question!!","The Badger says" MessageBoxButtons.OKCancel,MessageBoxIcon.Asterisk);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
