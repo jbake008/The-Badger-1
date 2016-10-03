@@ -1,1 +1,12 @@
+Weekly plans
+
+9/26
+Status: Unknown error encountered in PC version. Visual studio shows no syntax errors, and yet, no matter what is changed, an error preventing the latest
+build from being loaded occurs. Previous build working fine, but progress is halted until this error can be worked around or fixed.
+Interface basics, complete.
+Button 1 form 1, Functioning and complete (this button is too open form 2, which contains the 8ball mode of The Badger)
+Form2(8ball mode) Title added, text box with instructions added, typeable text box added, background image added.
+Weekly Goal:
+PC version: Troubleshoot source of error, and build a workaround or fix the error source.
+
 
